@@ -1,0 +1,18 @@
+# Table of contents
+
+* [👋 Introduction](README.md)
+  * [💥 Our Mission](introduction/our-mission.md)
+  * [🌝 The Council](introduction/the-council.md)
+  * [🏘️ Join the Community](introduction/join-the-community.md)
+* [🎟️ Staking](staking/README.md)
+  * [🏦 What is NFTFI?](staking/what-is-nftfi.md)
+  * [🥩 Staking](staking/staking.md)
+  * [🧑‍🌾 Yield Farming](staking/yield-farming.md)
+  * [➗ Yield Breakdown](staking/yield-breakdown.md)
+* [⛏️ Mining](mining/README.md)
+  * [🏭 Facilities](mining/facilities.md)
+  * [📠 Hardware](mining/hardware.md)
+* [🎨 The Collection](the-collection/README.md)
+  * [📈 Trading](the-collection/trading.md)
+  * [🤝 Partnerships](the-collection/partnerships.md)
+* [GMC Litepaper](litepaper.md)

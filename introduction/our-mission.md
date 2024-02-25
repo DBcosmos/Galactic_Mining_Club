@@ -1,0 +1,12 @@
+---
+description: >-
+  The Galactic Mining Club aims to become a leader in the NFT space creating
+  innovative and cutting-edge strategies to generate real yield for all holders
+  and real utility for NFTs.
+---
+
+# 💥 Our Mission
+
+The Galactic Mining Club will unlock cryptocurrency mining for the common user, to create a continual inflow of new liquidity into the Cosmos ecosystem, and to become a leader in the NFT space creating innovative and cutting-edge strategies to generate real yield for all holders and real utility for NFTs.
+
+We will utilize a robust array of strategies and techniques to produce revenue, including the operation and fine-tuning of mining equipment and DeFi strategies across the Cosmos blockchains.
