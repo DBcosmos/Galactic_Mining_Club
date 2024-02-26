@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/GMC (1).png
+coverY: 66.28169014084507
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🏘️ Join the Community
 
 [X (Twitter)](https://twitter.com/Galactic\_Mining)
