@@ -2,7 +2,9 @@
 description: (downloadable PDF of the Litepaper at the bottom of the page)
 ---
 
-# GMC Litepaper
+# 📑 GMC Litepaper
+
+<figure><img src=".gitbook/assets/Screenshot 2024-02-26 at 18.28.58.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Vision Statement
 

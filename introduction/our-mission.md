@@ -3,8 +3,8 @@ description: >-
   The Galactic Mining Club aims to become a leader in the NFT space creating
   innovative and cutting-edge strategies to generate real yield for all holders
   and real utility for NFTs.
-cover: ../.gitbook/assets/GMC.png
-coverY: 68
+cover: ../.gitbook/assets/Screenshot 2024-02-26 at 18.19.09.png
+coverY: 140.93866666666665
 layout:
   cover:
     visible: true

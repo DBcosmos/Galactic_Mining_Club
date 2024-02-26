@@ -2,8 +2,8 @@
 description: >-
   A group community members and founders dedicated to serving the The Galactic
   Mining Club
-cover: ../.gitbook/assets/6700ff8723bb4e7b83003198fd45734a (1).png
-coverY: 81.53521126760563
+cover: ../.gitbook/assets/Screenshot 2024-02-26 at 18.59.36.png
+coverY: 161.81066666666666
 layout:
   cover:
     visible: true

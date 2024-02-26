@@ -4,6 +4,7 @@
   * [💥 Our Mission](introduction/our-mission.md)
   * [🌝 The Council](introduction/the-council.md)
   * [🏘️ Join the Community](introduction/join-the-community.md)
+  * [👕 GMC Merchandise](introduction/gmc-merchandise.md)
 * [🎟️ Staking](staking/README.md)
   * [🏦 What is NFTFI?](staking/what-is-nftfi.md)
   * [🥩 Staking](staking/staking.md)
@@ -15,4 +16,4 @@
 * [🎨 The Collection](the-collection/README.md)
   * [📈 Trading](the-collection/trading.md)
   * [🤝 Partnerships](the-collection/partnerships.md)
-* [GMC Litepaper](litepaper.md)
+* [📑 GMC Litepaper](litepaper.md)

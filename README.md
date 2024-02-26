@@ -1,7 +1,7 @@
 ---
 description: Welcome to the Galactic Mining Club docs
-cover: .gitbook/assets/Screenshot 2024-02-26 at 17.03.54.png
-coverY: 0
+cover: .gitbook/assets/Screenshot 2024-02-26 at 18.59.48.png
+coverY: 155.81733333333332
 layout:
   cover:
     visible: true

@@ -1,6 +1,7 @@
 ---
-cover: ../.gitbook/assets/GMC (1).png
-coverY: 66.28169014084507
+description: Get involved in the GMC Community. Learn, grow and degen with us.
+cover: ../.gitbook/assets/Screenshot 2024-02-26 at 18.59.26.png
+coverY: 142.712
 layout:
   cover:
     visible: true
