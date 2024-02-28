@@ -11,6 +11,7 @@
   * [🧑‍🌾 Yield Farming](staking/yield-farming.md)
   * [➗ Yield Breakdown](staking/yield-breakdown.md)
 * [⛏️ Mining](mining/README.md)
+  * [What is Bitcoin Mining](mining/what-is-bitcoin-mining.md)
   * [🏭 Facilities](mining/facilities.md)
   * [📠 Hardware](mining/hardware.md)
 * [🎨 The Collection](the-collection/README.md)

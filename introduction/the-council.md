@@ -24,9 +24,9 @@ layout:
 
 ### Members:
 
-Hashimoto - GMC Founder
+Hashimoto - GMC Co-founder
 
-C Butt - GMC Founder and community manager
+C Butt - GMC Co-founder
 
 IBC Mafia - GMC NFT artist
 
@@ -36,7 +36,7 @@ DB - [Whaley DAO](https://whaleydao.gitbook.io/validator/) & Community Member
 
 Ecclesia -&#x20;
 
-Josep CM (Everyday Guy) -&#x20;
+Josep CM (Everyday Guy) - Community Manager
 
 Dizzle -&#x20;
 

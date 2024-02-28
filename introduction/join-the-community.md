@@ -20,6 +20,10 @@ layout:
 
 # 🏘️ Join the Community
 
+The Galactic Mining Club community is a dynamic and diverse collective of individuals united by a shared passion DeFi, crypto, and NFTs. At its core, the GMC community is characterized by its inclusivity, fostering an environment where members from all backgrounds and levels of expertise are welcomed and valued.
+
+### Links:
+
 [X (Twitter)](https://twitter.com/Galactic\_Mining)
 
 [Telegram](https://t.me/Galactic\_Miners)
