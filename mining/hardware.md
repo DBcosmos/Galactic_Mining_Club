@@ -2,7 +2,7 @@
 
 ## **Check out what the Club is mining:**
 
-The Club has purchased 3 Bitmain Antminers (9.4Th). The KS3 miner utilizes KHeavyHash algorithm to mine Kaspa (KAS). Serial Numbers and any information necessary to track the equipment's use will be shared with the Club for real-time monitoring when available.
+The Club has purchased 1 Bitmain Antminers (9.4Th). The KS3 miner utilizes KHeavyHash algorithm to mine Kaspa (KAS). Serial Numbers and any information necessary to track the equipment's use will be shared with the Club for real-time monitoring when available.
 
 {% embed url="https://www.nicehash.com/my/miner/16f3e2f5-f985-4065-a34b-6d0e13316a2f" %}
 
