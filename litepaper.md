@@ -4,9 +4,7 @@ description: (downloadable PDF of the Litepaper at the bottom of the page)
 
 # 📑 GMC Litepaper
 
-<figure><img src=".gitbook/assets/Screenshot 2024-02-26 at 18.28.58.png" alt="" width="375"><figcaption></figcaption></figure>
-
-## Vision Statement
+Vision Statement
 
 The Galactic Mining Club aims to become a leader in the NFT space creating innovative and cutting-edge strategies to generate real yield for all holders and real utility for NFTs.
 
@@ -149,6 +147,4 @@ Manage Wallets & Portfolios > Import Portfolio (Pink button) and add the followi
 
 866a8ba3-d030-37df-9464-667cb0f4d619
 
-
-
-{% file src=".gitbook/assets/Galactic Mining Club Litepaper.pdf" %}
+{% file src=".gitbook/assets/Galactic Mining Club Litepaper (1).pdf" %}
