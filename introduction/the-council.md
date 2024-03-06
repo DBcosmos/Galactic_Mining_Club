@@ -30,15 +30,15 @@ C Butt - GMC Co-founder
 
 IBC Mafia - GMC NFT artist
 
-Blänk -&#x20;
+Blänk - Data, Analytics & Oversight
 
 DB - [Whaley DAO](https://whaleydao.gitbook.io/validator/) & Community Member
 
-Ecclesia -&#x20;
+Ecclesia - Discord Manager
 
 Josep CM (Everyday Guy) - Community Manager
 
-Dizzle -&#x20;
+Dizzle - TFM & Galactic Guardian
 
 ### Council Multisig:
 
