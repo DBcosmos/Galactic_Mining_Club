@@ -24,8 +24,6 @@ Currently, the Galactic Mining Club has a 2-story, 3200 square foot facility loc
 
 ## NFT Collection
 
-Currently a work in progress, details are being finalized for our NFT collection, Galactic Miners.
-
 The artwork utilizes a unique art style and incorporates traits from various Cosmos communities
 
 and ecosystems. Mint was conducted with Backbone Labs who launched the collection on
