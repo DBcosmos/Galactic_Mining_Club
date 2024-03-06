@@ -1,7 +1,3 @@
----
-description: Trading of GMC NFTs is facilitated by 3 Market Places across 2 blockchains.
----
-
 # 📈 Trading
 
 ## Terra:
