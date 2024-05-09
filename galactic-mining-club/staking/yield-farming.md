@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Screenshot 2024-02-26 at 18.59.16.png
+cover: ../../.gitbook/assets/Screenshot 2024-02-26 at 18.59.16.png
 coverY: 81.5774647887324
 layout:
   cover:
