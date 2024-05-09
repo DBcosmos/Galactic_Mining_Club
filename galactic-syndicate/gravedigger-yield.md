@@ -26,7 +26,7 @@ The 10% performance fee is split into 3 portions (as per the [$SOUL Litepaper](h
 
 40% for $SOUL Stakers\
 30% for Galactic Syndicate\
-30% for Liquidity providers.
+30% for SOUL Liquidity providers
 
 ### Additional Revenue
 
