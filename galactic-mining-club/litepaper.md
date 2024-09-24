@@ -117,34 +117,24 @@ Distribution Wallet:
 
 Ops Wallets:
 
-Terra (Station): **terra1n6r74w7rarlsppkvdy3tdrh8cn38hzjhxek9uu**
+Terra : **terra1hzvv4mm955juhtw9nsga5nu6q3zl8ggtwexw0j**
 
-Terra (Leap): **terra10taytrle2a3kxh9qt74xhdsxcfges8w5xrk2my**
+Kujira: **kujira1wq0daek8aueruxgc3y5ugv7499hdpnm4xkjfsa**
 
-Kujira: **kujira10taytrle2a3kxh9qt74xhdsxcfges8w530wj5w**
+Migaloo: **migaloo1wq0daek8aueruxgc3y5ugv7499hdpnm462etge**
 
-Migaloo: **migaloo10taytrle2a3kxh9qt74xhdsxcfges8w5dn9sv2**
+STARS: **stars1wq0daek8aueruxgc3y5ugv7499hdpnm4rz8vkx**
 
-Carbon: **swth10taytrle2a3kxh9qt74xhdsxcfges8w5lexu2a**
+Secret: **secret136mp2wymwru89wcmalav02nv5r4zsjf3n0kk2e**
 
-STARS: **stars10taytrle2a3kxh9qt74xhdsxcfges8w55mmhj4**
+Osmosis: **osmo1wq0daek8aueruxgc3y5ugv7499hdpnm4l9rpt9**
 
-Secret: **secret10taytrle2a3kxh9qt74xhdsxcfges8w5zzcryc**
+Cosmos: **cosmos1wq0daek8aueruxgc3y5ugv7499hdpnm4h7s3ah**
 
-Osmosis: **osmo10taytrle2a3kxh9qt74xhdsxcfges8w5gul60k**
+Injective: **inj1a3cn3zvg30kh6dpzxdteclqtcmj3he8pad7lrv**
 
-Cosmos: **cosmos10taytrle2a3kxh9qt74xhdsxcfges8w5q8v2ey**
+Omniflix: **omniflix1wq0daek8aueruxgc3y5ugv7499hdpnm42qpg2f**
 
-Injective: **inj1wazzpzuhqjwn2kht7erh0x6nn0ddwr4z7229p4**
+Arbitrum: **0x99B2Ff441f9c87332d3fe5FFEFf1792aC510Cd49**
 
-Axelar: **axelar10taytrle2a3kxh9qt74xhdsxcfges8w5yf6zj9**
-
-### Ops Wallets Pulsar Portfolio ID
-
-On Pulsar, go to:
-
-Manage Wallets & Portfolios > Import Portfolio (Pink button) and add the following:
-
-866a8ba3-d030-37df-9464-667cb0f4d619
-
-{% file src=".gitbook/assets/Galactic Mining Club Litepaper (1).pdf" %}
+*Wallet addresses are subject to change due to periodic wallet rotations for security.
